@@ -1,0 +1,27 @@
+.bg-hotpink
+{
+    background-color:hotpink;
+}
+.text-justify
+{
+    text-align: justify;
+}
+.bg-back1 
+{
+    /* background-image:url('../imgages/e.jpg'); */
+    color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(rgba(1, 255, 196, 0.5),rgba(243, 94, 14, 0.5)), url('../images/g.webp');
+}
+.shadow-10
+{
+    box-shadow:10px 10px 10px crimson;
+}
+.b
+{
+    position:fixed;
+    left:-20;
+    top:400px;
+    transform:rotate(90deg);
+}
